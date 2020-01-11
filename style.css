@@ -25,3 +25,12 @@ p {
     height: 30px;
     padding: 0px;
 }
+
+#day-date {
+    text-align: center;
+    font-size: larger;
+}
+
+#nine-am {
+    /* background-color: red; */
+}
